@@ -2,8 +2,8 @@
 
 一款 Edge 浏览器扩展（Manifest V3）：一键拾取网页中的**文字色、背景色、边框色**，也支持吸管手动取色，在独立色板页勾选后批量导出 **CSS 变量 / SCSS 变量 / JSON / TXT** 色值文件。
 
-> 官网（GitHub Pages）：<https://hh0914.github.io/colorpick/>
-> 源码仓库：<https://github.com/hh0914/colorpick>
+> 官网（GitHub Pages）：<https://ccc578.github.io/colorpick/>
+> 源码仓库：<https://github.com/ccc578/colorpick>
 
 ---
 
